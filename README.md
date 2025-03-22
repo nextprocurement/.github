@@ -1,4 +1,4 @@
-## [NextProcurement Project](https://intelcomp.eu/](http://www.nextprocurement-project.com/)
+## [NextProcurement Project](http://www.nextprocurement-project.com/)
 
 ***Plataforma de análisis de licitaciones públicas enriquecida con inteligencia artificial***
 
